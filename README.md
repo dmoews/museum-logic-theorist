@@ -1,10 +1,7 @@
 # logic-theorist - The sources of the first theorem prover.
 
-This repository contains a scan of the full sources of Newell/Simon's Logical Theorist,
+This repository contains a scan of the full sources of Newell/Simon's Logic Theorist,
 the first theorem proving program.
 
-The sources are part of technical report P-868 of the Rand Corporation (1956; see
-http://shelf1.library.cmu.edu/IMLS/MindModels/logictheorymachine.pdf.)
-
-A transcription would be very welcome. 
-
+The sources are part of revised technical report P-868 of the RAND Corporation (1956; see
+https://archive.org/details/bitsavers_randiplP86ineJul56_3534001.)
